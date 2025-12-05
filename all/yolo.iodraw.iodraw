@@ -842,6 +842,12 @@
         <mxCell id="cbxRiqG5JrSPXvqYQQZQ-141" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;L=16，P=3&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;labelBackgroundColor=none;fillColor=#ffff88;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-100" y="2752" width="100" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="cbxRiqG5JrSPXvqYQQZQ-142" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Conv&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;align=center;verticalAlign=middle;horizontal=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-456" y="3080" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cbxRiqG5JrSPXvqYQQZQ-143" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;c=256，k=3，s=2&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-441.75" y="3134" width="112" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

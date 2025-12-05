@@ -498,7 +498,7 @@
         <mxCell id="cbxRiqG5JrSPXvqYQQZQ-7" value="SILU" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="-210" y="2270" width="92" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cbxRiqG5JrSPXvqYQQZQ-12" value="&lt;font style=&quot;font-size: 23px;&quot;&gt;Conv&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cbxRiqG5JrSPXvqYQQZQ-12" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Conv&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-700" y="2260" width="120" height="60" as="geometry" />
         </mxCell>
       </root>

@@ -480,7 +480,7 @@
         <mxCell id="cbxRiqG5JrSPXvqYQQZQ-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-757" y="2250" width="120" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="cbxRiqG5JrSPXvqYQQZQ-5" value="conv2d" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cbxRiqG5JrSPXvqYQQZQ-5" value="conv2d" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-562" y="2290" width="92" height="40" as="geometry" />
         </mxCell>
       </root>

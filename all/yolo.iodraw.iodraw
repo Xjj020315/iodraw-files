@@ -486,7 +486,7 @@
         <mxCell id="cbxRiqG5JrSPXvqYQQZQ-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cbxRiqG5JrSPXvqYQQZQ-5" target="cbxRiqG5JrSPXvqYQQZQ-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cbxRiqG5JrSPXvqYQQZQ-5" value="conv2d" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+        <mxCell id="cbxRiqG5JrSPXvqYQQZQ-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;conv2d&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="-450" y="2270" width="92" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cbxRiqG5JrSPXvqYQQZQ-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cbxRiqG5JrSPXvqYQQZQ-6" target="cbxRiqG5JrSPXvqYQQZQ-7">
@@ -499,10 +499,10 @@
           <mxGeometry x="-170" y="2270" width="92" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cbxRiqG5JrSPXvqYQQZQ-12" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Conv&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-757" y="2260" width="120" height="60" as="geometry" />
+          <mxGeometry x="-730" y="2260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cbxRiqG5JrSPXvqYQQZQ-13" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.6;dx=35;" vertex="1" parent="1">
-          <mxGeometry x="-632" y="2260" width="142" height="60" as="geometry" />
+          <mxGeometry x="-600" y="2280" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

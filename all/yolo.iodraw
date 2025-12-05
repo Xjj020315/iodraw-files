@@ -1466,7 +1466,7 @@
         <mxCell id="YNgGP1eL7HtjKwwRSbnY-169" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Concat&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;horizontal=1;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="5668" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YNgGP1eL7HtjKwwRSbnY-170" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;40×40×256&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#cdeb8b;fillStyle=auto;" vertex="1" parent="1">
+        <mxCell id="YNgGP1eL7HtjKwwRSbnY-170" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;80×80×128&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#cdeb8b;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="226.75" y="5604" width="88" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YNgGP1eL7HtjKwwRSbnY-171" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;L=21，P=3&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;labelBackgroundColor=none;fillColor=#ffff88;fontStyle=1" vertex="1" parent="1">
@@ -1487,7 +1487,7 @@
         <mxCell id="YNgGP1eL7HtjKwwRSbnY-176" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Conv&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;align=center;verticalAlign=middle;horizontal=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="264.75" y="5496" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YNgGP1eL7HtjKwwRSbnY-177" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;c=256，k=3，s=2&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="YNgGP1eL7HtjKwwRSbnY-177" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;c=128，k=3，s=2&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="279" y="5550" width="112" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YNgGP1eL7HtjKwwRSbnY-178" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;40×40×&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;512&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#cdeb8b;fillStyle=auto;" vertex="1" parent="1">

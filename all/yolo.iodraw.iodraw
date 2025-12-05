@@ -865,12 +865,13 @@
         <mxCell id="cbxRiqG5JrSPXvqYQQZQ-148" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;40×40×512&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#cdeb8b;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="145" y="2988" width="88" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cbxRiqG5JrSPXvqYQQZQ-199" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="cbxRiqG5JrSPXvqYQQZQ-120" target="cbxRiqG5JrSPXvqYQQZQ-132">
+        <mxCell id="cbxRiqG5JrSPXvqYQQZQ-199" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cbxRiqG5JrSPXvqYQQZQ-120" target="cbxRiqG5JrSPXvqYQQZQ-190">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-133" y="2798" />
-              <mxPoint x="189" y="2798" />
+              <mxPoint x="-133" y="2730" />
+              <mxPoint x="189" y="2730" />
               <mxPoint x="189" y="2812" />
+              <mxPoint x="740" y="2812" />
             </Array>
           </mxGeometry>
         </mxCell>

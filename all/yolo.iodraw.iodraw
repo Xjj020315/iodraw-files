@@ -933,20 +933,17 @@
         <mxCell id="cbxRiqG5JrSPXvqYQQZQ-189" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;40×40×&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;512&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#cdeb8b;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="530" y="3200" width="88" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="cbxRiqG5JrSPXvqYQQZQ-202" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="cbxRiqG5JrSPXvqYQQZQ-190" target="cbxRiqG5JrSPXvqYQQZQ-120">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="cbxRiqG5JrSPXvqYQQZQ-202" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="715.0000000000005" y="2651" as="sourcePoint" />
+            <mxPoint x="-17.75" y="2639" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="cbxRiqG5JrSPXvqYQQZQ-190" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Detect&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;horizontal=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="670" y="2714" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cbxRiqG5JrSPXvqYQQZQ-200" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;80×80×&lt;/span&gt;&lt;span style=&quot;font-size: 13px;&quot;&gt;256&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#cdeb8b;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="470" y="2739" width="88" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="cbxRiqG5JrSPXvqYQQZQ-204" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="40" y="3040" as="sourcePoint" />
-            <mxPoint x="90" y="2990" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

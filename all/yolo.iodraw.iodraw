@@ -940,7 +940,7 @@
           <mxGeometry x="670" y="2817" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cbxRiqG5JrSPXvqYQQZQ-192" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=#d5e8d4;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;strokeColor=#82b366;rounded=1;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="-142.75" y="2688" width="20" height="20" as="geometry" />
+          <mxGeometry x="730" y="2804" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

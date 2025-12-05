@@ -8,7 +8,7 @@
           <mxGeometry x="-755" y="2480" width="170" height="170" as="geometry" />
         </mxCell>
         <mxCell id="cbxRiqG5JrSPXvqYQQZQ-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="-755" y="2710" width="170" height="450" as="geometry" />
+          <mxGeometry x="-755" y="2680" width="170" height="480" as="geometry" />
         </mxCell>
         <mxCell id="cbxRiqG5JrSPXvqYQQZQ-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-480" y="2250" width="440" height="80" as="geometry" />
@@ -535,7 +535,7 @@
           <mxGeometry x="-740" y="2740" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="cbxRiqG5JrSPXvqYQQZQ-30" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;c=128，k=3，s=2&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-722" y="2794" width="112" height="20" as="geometry" />
+          <mxGeometry x="-724" y="2794" width="112" height="20" as="geometry" />
         </mxCell>
         <mxCell id="cbxRiqG5JrSPXvqYQQZQ-34" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;P=1&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;labelBackgroundColor=none;fillColor=#ffff88;fontStyle=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-798.25" y="2732" width="50.75" height="50" as="geometry" />

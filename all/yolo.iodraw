@@ -1321,7 +1321,7 @@
             <mxPoint x="336" y="6888" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YNgGP1eL7HtjKwwRSbnY-123" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;L=20，P=5&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;labelBackgroundColor=none;fillColor=#ffff88;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="YNgGP1eL7HtjKwwRSbnY-123" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;L=26，P=5&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;labelBackgroundColor=none;fillColor=#ffff88;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="412" y="6547" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YNgGP1eL7HtjKwwRSbnY-124" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;P=5&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;labelBackgroundColor=none;fillColor=#ffff88;fontStyle=1;fontSize=18;" vertex="1" parent="1">
@@ -1336,7 +1336,7 @@
         <mxCell id="YNgGP1eL7HtjKwwRSbnY-127" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;20×20×512&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#cdeb8b;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="226.75" y="6670" width="88" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YNgGP1eL7HtjKwwRSbnY-128" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;L=21，P=5&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;labelBackgroundColor=none;fillColor=#ffff88;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="YNgGP1eL7HtjKwwRSbnY-128" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;L=27，P=5&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;labelBackgroundColor=none;fillColor=#ffff88;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="412" y="6724" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YNgGP1eL7HtjKwwRSbnY-129" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;20×20×1536&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#36393d;fillColor=#cdeb8b;fillStyle=auto;" vertex="1" parent="1">

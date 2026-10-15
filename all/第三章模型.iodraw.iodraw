@@ -25,16 +25,11 @@
         <mxCell id="GXmd9KWmJDkFpGA6kI-w-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GXmd9KWmJDkFpGA6kI-w-8" target="GXmd9KWmJDkFpGA6kI-w-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GXmd9KWmJDkFpGA6kI-w-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="GXmd9KWmJDkFpGA6kI-w-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="125" y="360" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="GXmd9KWmJDkFpGA6kI-w-8" value="Conv" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="100" y="380" width="50" height="30" as="geometry" />
+          <mxGeometry x="100" y="350" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GXmd9KWmJDkFpGA6kI-w-9" value="C2f" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="100" y="440" width="50" height="30" as="geometry" />
+          <mxGeometry x="100" y="400" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

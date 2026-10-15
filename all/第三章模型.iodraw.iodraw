@@ -157,8 +157,11 @@
         <mxCell id="GXmd9KWmJDkFpGA6kI-w-62" value="Detect" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="455" y="508" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="GXmd9KWmJDkFpGA6kI-w-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GXmd9KWmJDkFpGA6kI-w-64" target="GXmd9KWmJDkFpGA6kI-w-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GXmd9KWmJDkFpGA6kI-w-64" value="Conv" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="364" y="555" width="60" height="30" as="geometry" />
+          <mxGeometry x="364" y="551" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

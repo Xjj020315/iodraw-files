@@ -58,8 +58,14 @@
         <mxCell id="GXmd9KWmJDkFpGA6kI-w-23" value="C2f" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="100" y="600" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="GXmd9KWmJDkFpGA6kI-w-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GXmd9KWmJDkFpGA6kI-w-25" target="GXmd9KWmJDkFpGA6kI-w-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GXmd9KWmJDkFpGA6kI-w-25" value="SPPF" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="100" y="650" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GXmd9KWmJDkFpGA6kI-w-27" value="SPPF" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="240" y="650" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

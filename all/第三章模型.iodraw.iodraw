@@ -16,8 +16,8 @@
         <mxCell id="GXmd9KWmJDkFpGA6kI-w-2" value="Conv" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="100" y="250" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="GXmd9KWmJDkFpGA6kI-w-4" value="Conv" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="100" y="350" width="50" height="30" as="geometry" />
+        <mxCell id="GXmd9KWmJDkFpGA6kI-w-4" value="Conv" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="100" y="300" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

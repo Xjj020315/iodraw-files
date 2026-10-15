@@ -10,11 +10,14 @@
         <mxCell id="GXmd9KWmJDkFpGA6kI-w-1" value="Conv" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="100" y="200" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="GXmd9KWmJDkFpGA6kI-w-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GXmd9KWmJDkFpGA6kI-w-2" target="GXmd9KWmJDkFpGA6kI-w-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GXmd9KWmJDkFpGA6kI-w-2" value="Conv" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="100" y="250" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="GXmd9KWmJDkFpGA6kI-w-4" value="Conv" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="100" y="430" width="50" height="30" as="geometry" />
+          <mxGeometry x="100" y="350" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
